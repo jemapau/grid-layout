@@ -1,0 +1,19 @@
+{
+  "name": "grid-layout",
+  "version": "1.0.0",
+  "description": "This a project to apply Grid ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemapau/grid-layout.git"
+  },
+  "author": "Maria Paulina Arenas <je.mapau@gmail.com> (https://twitter.com/je_mapau)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemapau/grid-layout/issues"
+  },
+  "homepage": "https://github.com/jemapau/grid-layout#readme"
+}

@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+}
+
+/* .container {
+
+    display: grid;
+    grid-template-columns:25% 50% 25%;
+
+}
+
+*/
+.item {
+
+    background: aquamarine;
+    border: 1px solid salmon;
+    
+} 
+
+
+.container {
+
+    display: grid;
+    grid-template: 100px 1fr 150px / 200px 1fr;
+    grid-gap: 20px;
+    height: 100vh;
+    grid-template-areas: "header header"
+                         "aside content"
+                         "footer footer";
+
+}
+
+.header {
+    grid-area: header;
+}
+
+.aside {
+    grid-area: aside;
+}
+
+.content {
+    grid-area: content;
+}
+
+.footer {
+    grid-area: footer;
+}

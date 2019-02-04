@@ -1,0 +1,15 @@
+/* 
+.container {
+
+    
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    /* grid-gap: filas columnas;*/
+    /* grid-template: 300px 100px 100px / 50% 200px 100px; */ 
+    /* fr */
+    /* grid-template: 300px 100px 100px / 1fr 1fr 1fr; */
+    /*grid-template: 300px 100px 100px / repeat(4, 1fr);
+    grid-template: 300px 100px 100px / repeat(4, minmax(200px, 1fr));
+    
+}
+ */
