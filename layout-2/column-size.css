@@ -13,15 +13,12 @@ body {
 
 .item p {
 
-    position: absolute;
     z-index: 2;
     align-self: center;
     justify-content: center;
     color: white;
     font-weight: bold;
     font-size: 60px;
-    left: 0px;
-    right: 0px;
 
 }
 
